@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="change_language">Change language</string>
+    <string name="language_fa">Persian</string>
+    <string name="language_en">English</string>
+
+    <string-array name="list_Language">
+        <item>English</item>
+        <item>Farsi</item>
+
+    </string-array>
+</resources>

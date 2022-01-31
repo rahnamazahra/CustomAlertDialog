@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">دیالوگ سفارشی</string>
+    <string name="change_language">تغییر زبان</string>
+    <string name="language_fa">فارسی</string>
+    <string name="language_en">انگلیسی</string>
+
+    <string-array name="list_Language">
+        <item>انگلیسی</item>
+        <item>فارسی</item>
+    </string-array>
+
+</resources>
